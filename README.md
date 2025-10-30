@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hasanfaruk61/hasanfaruk61/main/banner.png" alt="Hasan Faruk Pervan | Fullstack Developer" width="100%">
-</p>
 
 <h1 align="center">👋 Hallo, ich bin <a href="https://github.com/hasanfaruk61">Hasan Faruk Pervan</a> </h1>
 
