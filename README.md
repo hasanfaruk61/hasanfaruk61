@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Faruk</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Germany</h3>
 
 - 🔭 I’m currently working on **a payroll management system with MERN-Stack**
 
